@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Peer-to-Peer Learning Platform</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+      <h1>Peer-to-Peer Learning Platform</h1>
+      <nav>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Courses</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section>
+        <h2>Welcome to the Peer-to-Peer Learning Platform!</h2>
+        <p>Our platform connects learners and educators from all over the world to facilitate the exchange of knowledge and skills.</p>
+        <a href="#">Get Started</a>
+      </section>
+      <section>
+        <h2>Featured Courses</h2>
+        <ul>
+          <li>
+            <img src="course1.jpg" alt="Course 1">
+            <h3>Course 1</h3>
+            <p>Description of Course 1</p>
+            <a href="#">Learn More</a>
+          </li>
+          <li>
+            <img src="course2.jpg" alt="Course 2">
+            <h3>Course 2</h3>
+            <p>Description of Course 2</p>
+            <a href="#">Learn More</a>
+          </li>
+          <li>
+            <img src="course3.jpg" alt="Course 3">
+            <h3>Course 3</h3>
+            <p>Description of Course 3</p>
+            <a href="#">Learn More</a>
+          </li>
+        </ul>
+      </section>
+    </main>
+    <footer>
+      <p>&copy; 2023 Peer-to-Peer Learning Platform</p>
+    </footer>
+  </body>
+</html>
